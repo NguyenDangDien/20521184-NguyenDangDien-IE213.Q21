@@ -4,7 +4,7 @@
 - 3 Lấy dữ liệu cho trang tiếp theo
 
 ## Công cụ/ môi trường sử dụng
-- webstorm: giúp viết code
+- Webstorm: giúp viết code
 
 ## Lời giải
 ### 1.1 Tạo login component
