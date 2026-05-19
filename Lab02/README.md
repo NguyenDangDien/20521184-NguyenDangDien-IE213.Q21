@@ -6,7 +6,7 @@
 
 ## Công cụ/ môi trường sử dụng
 - ChatGPT: giúp sửa lại các syntax của express cũ
-- webstorm: giúp viết code
+- Webstorm: giúp viết code
 
 ## Lời giải 
 - npm init (để khởi tạo môi trường nodejs)
@@ -17,7 +17,7 @@
 - thêm trong script "dev": "nodemon --exec babel-node ./index.js" trong file package.json
 ![img.png](screenshot/package.json.png)
 
-- tạo file .gitignore để không push folder node_modules lên git
+- Tạo file .gitignore để không push folder node_modules lên git
 
 - Kết quả api http://localhost:3000/api/v1/movies
 ![img.png](screenshot/web_result.png)
