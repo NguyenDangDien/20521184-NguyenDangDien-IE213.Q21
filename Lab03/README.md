@@ -1,15 +1,14 @@
 ## Mục tiêu bài thực hành
 - Viết api tạo review (post)
 - Viết api sửa review (put)
-- viết api xóa review (delete)
-- viết api lấy movie theo id (get)
-- viết api lấy ratings (get)
+- Viết api xóa review (delete)
+- Viết api lấy movie theo id (get)
+- Viết api lấy ratings (get)
 
 ## Công cụ/ môi trường sử dụng
-- webstorm: giúp viết code
+-Webstorm: giúp viết code
 
 ## Lời giải 
-
 - Kết quả api tạo review
 ![img.png](screenshot/postman_post_review.png)
 ![img_1.png](screenshot/mongodb_post_review.png)
@@ -26,5 +25,5 @@
 ![img_6.png](screenshot/postman_get_movie.png)
 ![img_7.png](screenshot/mongodb_get_movie.png)
 
-- Kết quả ly ratings
+- Kết quả lấy ratings
 ![img_8.png](screenshot/postman_get_ratings.png)
