@@ -6,7 +6,7 @@
 - Viết routes để định tuyến
 
 ## Công cụ/ môi trường sử dụng
-- webstorm: giúp viết code
+- Webstorm: giúp viết code
 
 ## Lời giải 
 - 1.1 Thiết lập react:
