@@ -5,7 +5,7 @@
 - 4 Hiển thị danh sách review tương ứng cho từng phim dưới phần Plot
 
 ## Công cụ/ môi trường sử dụng
-- webstorm: giúp viết code
+- Webstorm: giúp viết code
 
 ## Lời giải
 ### 1.1 Cài đặt axios
